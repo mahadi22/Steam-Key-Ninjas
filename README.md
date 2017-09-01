@@ -1,11 +1,12 @@
 ## Steam Key Ninjas
 
-#### What This Thing Do...?
-It will click the SSA Checkbox and click Continue Button for you after put steam key on textbox. Its instant key activation.
+### What This Thing Do...?
+It will automatically redeem your steam key.
+![OnAction](https://github.com/mahadi22/Steam-Key-Ninjas/blob/master/picture/onAction.gif?raw=true)
 
 ---
 
-#### How to install this...?
+### How to install this...?
 1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
 2. Click this [link](https://github.com/mahadi22/Steam-Key-Ninjas/raw/master/SteamKeyNinjas.user.js) to add the script to tampermonkey/greasemonkey.                             
 3. Copy the content of this [javascript](https://github.com/mahadi22/Steam-Key-Ninjas/raw/master/Bookmark.js)
@@ -14,7 +15,7 @@ It will click the SSA Checkbox and click Continue Button for you after put steam
 
 ---
 
-#### Steam Key Format
+### Steam Key Format
 AAAAA-BBBBB-CCCCC                
 AAAAA-BBBBB-CCCCC-DDDDD-EEEEE                 
 237ABCDGHJLPRST 23    
@@ -34,4 +35,4 @@ AAAAA-BBBBB-CCCCC-DDDDD-EEEEE
 ##### 4. Activation                
 ![Activation](https://github.com/mahadi22/Steam-Key-Ninjas/blob/master/picture/activation.png?raw=true)
 
----      
+     
