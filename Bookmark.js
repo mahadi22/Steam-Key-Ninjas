@@ -1,8 +1,7 @@
 javascript:
-var selection = window.getSelection().toString();
-
-if (selection) {
-  location.href = 'https://store.steampowered.com/account/registerkey?key=' + selection;
+var keys = window.getSelection().toString();
+if (keys) {
+  location.href = 'https://store.steampowered.com/account/registerkey?key=' + keys;
 } else {
   location.href = 'https://store.steampowered.com/account/registerkey?key=' + prompt('Insert Steam Key');
 }
