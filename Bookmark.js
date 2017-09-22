@@ -1,7 +1,7 @@
 javascript:
 var selects = window.getSelection().toString();
 if (selects) {
-	var sel2 = selects.match(/((((?![osuOSU])[a-zA-z1-9]){5}-){2}){1,2}((?![osuOSU])[a-zA-z1-9]){5}$|((?![osuOSU])[a-zA-z1-9]){15}$/g);
+	var sel2 = selects.match(/((((?![osuOSU])[a-zA-Z0-9]){5}-){2}){1,2}((?![osuOSU])[a-zA-Z0-9]){5}$|((?![osuOSU])[a-zA-Z0-9]){15}$/g);
 	if (sel2 != null){ location.href = 'https://store.steampowered.com/account/registerkey?key=' + selects;
 	}
 	else { alert('Its not a key.\nBye......♥');}
