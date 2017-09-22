@@ -9,7 +9,7 @@ if (selects) {
 else {
 	keys = prompt('WARNING\nYou will be directed to the activation page and losing this page.\n\nInsert your steam key here...!'); 
 	if(keys != null){
-		var keys2 = keys.match(/((((?![osuOSU])[a-zA-z1-9]){5}-){2}){1,2}((?![osuOSU])[a-zA-z1-9]){5}$|((?![osuOSU])[a-zA-z1-9]){15}$/g);
+		var keys2 = keys.match(/((((?![osuOSU])[a-zA-Z0-9]){5}-){2}){1,2}((?![osuOSU])[a-zA-Z0-9]){5}$|((?![osuOSU])[a-zA-Z0-9]){15}$/g);
 		if (keys == '' | keys2 == null){ alert('No Valid Key Detected....!');} 
 		if (keys == keys2){ window.location.href = 'https://store.steampowered.com/account/registerkey?key=' + keys; }
 	}
