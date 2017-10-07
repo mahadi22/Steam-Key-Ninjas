@@ -38,3 +38,4 @@ AAAAA-BBBBB-CCCCC-DDDDD-EEEEE
 ![Activation](https://github.com/mahadi22/Steam-Key-Ninjas/blob/master/picture/activation.png?raw=true)
 
      
+[URL=https://info.flagcounter.com/XVpR][IMG]https://s04.flagcounter.com/count/XVpR/bg_FFFFFF/txt_03700E/border_FF0000/columns_1/maxflags_3/viewers_3/labels_0/pageviews_1/flags_0/percent_0/[/IMG][/URL]
