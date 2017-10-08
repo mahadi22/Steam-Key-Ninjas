@@ -4,11 +4,11 @@
 ### What This Thing Do...?
 It will automatically redeem your steam key.
 
-![OnAction](https://github.com/mahadi22/Steam-Key-Ninjas/blob/master/picture/onAction.gif?raw=true)  
+![OnAction2](https://github.com/mahadi22/Steam-Key-Ninjas/blob/master/picture/onAction2.gif?raw=true)
 
 ---
 
-![OnAction2](https://github.com/mahadi22/Steam-Key-Ninjas/blob/master/picture/onAction2.gif?raw=true)
+![OnAction](https://github.com/mahadi22/Steam-Key-Ninjas/blob/master/picture/onAction.gif?raw=true)  
 
 ---
 
