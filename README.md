@@ -37,6 +37,5 @@ AAAAA-BBBBB-CCCCC-DDDDD-EEEEE
 ##### 4. Activation                
 ![Activation](https://github.com/mahadi22/Steam-Key-Ninjas/blob/master/picture/activation.png?raw=true)
 
-     
-[![flag](https://s04.flagcounter.com/count/XVpR/bg_FFFFFF/txt_03700E/border_FF0000/columns_1/maxflags_3/viewers_3/labels_0/pageviews_1/flags_0/percent_0/)](https://info.flagcounter.com/XVpR)
 
+[![flag](https://s04.flagcounter.com/mini/XVpR/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/)](https://info.flagcounter.com/XVpR)
