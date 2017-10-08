@@ -1,9 +1,13 @@
+[![flag2](https://s05.flagcounter.com/mini/QkT3ad/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0)](http://bit.ly/QkT3ad)
 ## Steam Key Ninjas
 
 ### What This Thing Do...?
 It will automatically redeem your steam key.
 
-![OnAction](https://github.com/mahadi22/Steam-Key-Ninjas/blob/master/picture/onAction.gif?raw=true)         
+![OnAction](https://github.com/mahadi22/Steam-Key-Ninjas/blob/master/picture/onAction.gif?raw=true)  
+
+---
+
 ![OnAction2](https://github.com/mahadi22/Steam-Key-Ninjas/blob/master/picture/onAction2.gif?raw=true)
 
 ---
@@ -36,6 +40,7 @@ AAAAA-BBBBB-CCCCC-DDDDD-EEEEE
 
 ##### 4. Activation                
 ![Activation](https://github.com/mahadi22/Steam-Key-Ninjas/blob/master/picture/activation.png?raw=true)
+
 
 
 [![flag](https://s04.flagcounter.com/mini/XVpR/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/)](https://info.flagcounter.com/XVpR)
