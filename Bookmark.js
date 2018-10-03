@@ -1,5 +1,6 @@
 javascript:
-var selects = trim(window.getSelection().toString());
+var selects = window.getSelection().toString();
+var selects = selects.replace(/\s+/g, '');
 if (selects) {
 	var sel2 = selects.match(/((((?![osuOSU])[a-zA-Z0-9]){5}-){2}){1,2}((?![osuOSU])[a-zA-Z0-9]){5}$|((?![osuOSU])[a-zA-Z0-9]){15}$/g);
 	if (sel2 != null){ location.href = 'https://store.steampowered.com/account/registerkey?key=' + selects;
